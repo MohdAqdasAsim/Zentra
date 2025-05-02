@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/mockups/banner.png" alt="Zentra Banner" />
+  <img src="docs/assets/banner.png" alt="Zentra Banner" />
 </p>
 
 <h1 align="center">🧘‍♀️ Zentra – Calibrate. Concentrate. Create.</h1>
